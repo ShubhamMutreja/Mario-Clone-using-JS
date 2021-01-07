@@ -1,2 +1,3 @@
-# Mario Clone using JS
- 
+# Mario JS
+
+Javascript implementation of super mario bros
